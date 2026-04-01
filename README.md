@@ -43,5 +43,5 @@ The dataset includes:
 - SQL
 - Power Query
 
-## 📸 Screenshots
-(Add dashboard screenshots here)
+## 📸 Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiM2FmZDgyZjAtNGIxMi00MGU1LTliNGQtYzc4YTU4M2JjOGU1IiwidCI6IjhjNzhjMTIyLWY3ODEtNDUwMC05YzJhLWY2NDVhNzYyODFmNSJ9
