@@ -53,3 +53,12 @@ The dataset includes:
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2FmZDgyZjAtNGIxMi00MGU1LTliNGQtYzc4YTU4M2JjOGU1IiwidCI6IjhjNzhjMTIyLWY3ODEtNDUwMC05YzJhLWY2NDVhNzYyODFmNSJ9)
 
 ## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### KPI Metrics
+![KPI Metrics](screenshots/kpi_metrics.png)
+
+### Interactive Filters
+![Interactive Filters](screenshots/interactive_filters.png)
